@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: acjbot1
+  host: acjbot1
+  disk_quota: 1024M
+  services:
+  - availability-monitoring-auto
+  env:
+    TOKEN: xoxb-152016002608-WHjklNs4sPvcVuFlTfESm1SP
