@@ -9,4 +9,4 @@ applications:
   services:
   - availability-monitoring-auto
   env:
-    TOKEN: xoxb-152016002608-WHjklNs4sPvcVuFlTfESm1SP
+    
