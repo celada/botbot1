@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: acjbot1
-  host: acjbot1
+  name: botbot1
+  host: botbot1
   disk_quota: 1024M
   services:
   - availability-monitoring-auto
