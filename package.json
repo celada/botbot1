@@ -9,6 +9,8 @@
     "botkit": "^0.5.2",
     "cfenv": "1.0.x",
     "express": "4.13.x",
+    "jfs": "^0.2.6",
+    "jscs": "^3.0.7",
     "mustache": "^2.3.0"
   },
   "repository": {},
