@@ -10,7 +10,8 @@
     "cfenv": "1.0.x",
     "express": "4.13.x",
     "jfs": "^0.2.6",
-    "mustache": "^2.3.0"
+    "mustache": "^2.3.0",
+    "ware": "^1.3.0"
   },
   "repository": {},
   "engines": {
