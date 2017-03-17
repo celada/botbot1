@@ -8,6 +8,7 @@
   "dependencies": {
     "botkit": "^0.5.2",
     "cfenv": "1.0.x",
+    "clone": "^2.1.1",
     "express": "4.13.x",
     "jfs": "^0.2.6",
     "mustache": "^2.3.0",
