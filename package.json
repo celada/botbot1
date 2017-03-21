@@ -6,6 +6,7 @@
     "start": "node slack_bot.js"
   },
   "dependencies": {
+    "body-parser": "^1.17.1",
     "botkit": "^0.5.2",
     "botkit-studio-sdk": "^1.0.2",
     "cfenv": "1.0.x",
